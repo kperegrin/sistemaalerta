@@ -127,7 +127,7 @@ Copyright
 
 Aquest programari és propietat exclusiva del seu autor.
 No es permet copiar, modificar, distribuir o utilitzar aquest programari
-amb finalitats comercials sense autorització expressa i per escrit.
+amb finalitats comercials sense autorització expressa i per escrit.(De esto es excluido la empresa de CEMSSA)
 
 Suport
 ------
